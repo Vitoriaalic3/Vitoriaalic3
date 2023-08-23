@@ -28,19 +28,12 @@
 
   <img align="center" alt="Vitoriaalic3-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitoriaalic3-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitoriaalic3-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-
-  
+  <img align="center" alt="Vitoriaalic3-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"> 
   <img align="center" alt="Vitoriaalic3-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-   <img align="center" alt="Vitoriaalic3-Java" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-
-
-
+ <img align="center" alt="Vitoriaalic3-Java" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Vitoriaalic3-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Vitoriaalic3-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg">
-  
-  <img align="center" alt="Vitoriaalic3-CSS" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/1280px-AutoCad_logo.svg.png">
+  <img align="center" alt="Vitoriaalic3-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg">  
+  <img align="center" alt="Vitoriaalic3-AutoCAD" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/1280px-AutoCad_logo.svg.png">
 
 
 
@@ -61,4 +54,4 @@
 <br> 
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&theme=great-gatsby&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&theme=great-gatsby&hide_title=true&hide=stars)

@@ -54,4 +54,6 @@
 <br> 
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&theme=great-gatsby&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&theme=great-gatsby&hide_title=true&hide=stars)  
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vitoriaalic3&layout=compact&bg_color=000&border_color=white&title_color=EEAD2D&text_color=FFE390)

@@ -1,3 +1,6 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=header"/>
+
 <h1 align="center" >  Hello World! I am Vitória Alice! <br>  </h1>
 
 <br>
@@ -11,9 +14,9 @@
 
 
 ## 🚀 About Me
-👩🏽‍💻 26 years old
+👩🏽‍💻 26 Years Old
 
-🎓Software Engineering Student
+🎓 Software Engineering Student
 
 📈 Studying Data Engineering and Data Science
 
@@ -53,7 +56,19 @@
 </div>
 <br> 
 
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&layout=compact&bg_color=000&border_color=FF9001&title_color=EEAD2D&text_color=FFE390&hide_title=true&hide=stars)  
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vitoriaalic3&layout=compact&bg_color=000&border_color=FF9001&title_color=FFE390&text_color=FFE390)
+
+## 🔥 GitHub Stats
+
+<div align=center>
+
+<img width=415 hight=195px src="https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&layout=compact&bg_color=0D1117&border_color=FF9001&title_color=EEAD2D&text_color=FFE390&hide_title=true&hide=stars&">  
+
+<br> 
+
+<img width=415 hight=195px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vitoriaalic3&layout=compact&bg_color=0D1117&border_color=FF9001&title_color=FFE390&text_color=FFE390">
+
+
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=footer"/>
+

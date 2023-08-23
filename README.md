@@ -1,8 +1,9 @@
-# Hello World! I am Vitória Alice!
+<h1 align="center">  Hello World! I am Vitória Alice! </h1>
+
+<br>
 
 
-
-## 🚀 Sobre mim
+## 🚀 About Myself
 👩🏽‍💻 26 years old
 
 🎓Software Engineering Student
@@ -10,10 +11,10 @@
 📈 Studying Data Engineering and Data Science
 
 
+<br>
 
 
- 
-## 🛠 Habilidades
+## 🛠 Skills
 
 
 <div style="display: inline_block"><br>
@@ -34,7 +35,10 @@
   <img align="center" alt="Vitoriaalic3-CSS" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/1280px-AutoCad_logo.svg.png">
 </div>
 
-##
+<br>
+
+
+## 🔗 Contact
 <div> 
  
   <a href = "mailto:vitoriaalic3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4883&pause=949&color=EEAD2D&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=3500&pause=900&color=FF9001&width=435&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 </div>
 
 
@@ -47,13 +47,13 @@
 ## 🔗 Contact
 <div> 
  
-  <a href = "mailto:vitoriaalic3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EEAD2D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitoria-alice-dos-santos-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-EEAD2D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vitoriaalic3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF9001?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitoria-alice-dos-santos-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9001?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 <br> 
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&theme=great-gatsby&hide_title=true&hide=stars)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&layout=compact&bg_color=000&border_color=FF9001&title_color=EEAD2D&text_color=FFE390&hide_title=true&hide=stars)  
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vitoriaalic3&layout=compact&bg_color=000&border_color=white&title_color=EEAD2D&text_color=FFE390)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vitoriaalic3&layout=compact&bg_color=000&border_color=FF9001&title_color=FFE390&text_color=FFE390)

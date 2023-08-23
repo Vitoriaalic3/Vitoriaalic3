@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=900&color=FF9001&width=435&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=900&color=FF9001&height=60&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 </div>
 
 

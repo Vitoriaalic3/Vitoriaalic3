@@ -18,7 +18,11 @@
 
 🎓 Software Engineering Student
 
-📈 Studying Data Engineering and Data Science
+📈 Studying Data Engineering and Data Science  <img  width=150 height=150px align=right src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e476fyez02vgjqx1uruc3lz2k26d91d0vgo3gr0bbh5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
+
+
 
 
 <br>
@@ -78,7 +82,7 @@
 
 
 
+>
 
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=footer"/>
 

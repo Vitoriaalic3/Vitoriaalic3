@@ -68,6 +68,16 @@
 
 <img width=415 hight=195px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vitoriaalic3&layout=compact&bg_color=0D1117&border_color=FF9001&title_color=FFE390&text_color=FFE390">
 
+<br>
+<br>
+<h3>Visitors Count
+
+</h3> 
+  <img src="https://profile-counter.glitch.me/Vitoriaalic3/count.svg?"  />
+
+
+
+
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=footer"/>

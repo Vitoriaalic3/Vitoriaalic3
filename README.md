@@ -12,7 +12,6 @@
 
 
 
-
 ## 🚀 About Me
 👩🏽‍💻 26 Years Old
 
@@ -75,15 +74,17 @@
 
 <br>
 <br>
+
 <h3>Visitors Count
 
 </h3> 
-  <img src="https://profile-counter.glitch.me/Vitoriaalic3/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Vitoriaalic3/count.svg?">
+
+<br>
 
 
+<img src="https://media1.giphy.com/media/Ai5SLIOTjQG0doYaJD/giphy.gif?cid=ecf05e47twbxvq4qbsafhdh1hibtlzb5vcz4dsrtk4xgi9qc&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
-
->
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=footer"/>
 

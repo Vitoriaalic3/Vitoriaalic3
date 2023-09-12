@@ -36,6 +36,8 @@
   <img align="center" alt="Vitoriaalic3-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   <img align="center" alt="Vitoriaalic3-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Vitoriaalic3-Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Vitoriaalic3-Java"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
   <img align="center" alt="Vitoriaalic3-MySQL"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Vitoriaalic3-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
   <img align="center" alt="Vitoriaalic3-AutoCAD" src="https://img.shields.io/badge/AUTOCAD-FF0000?style=for-the-badge&logoColor=white">
@@ -53,6 +55,7 @@
  
   <a href = "mailto:vitoriaalic3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF9001?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitoria-alice-dos-santos-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9001?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://open.spotify.com/user/ts3fm74t9nrr6cj77zxpi1b0o?si=5cf89a480184405c&nd=1"><img src="https://img.shields.io/badge/Spotify-FF9001?&style=for-the-badge&logo=spotify&logoColor=white"> </a>
   
 </div>
 

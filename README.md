@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-👩🏽‍💻 26 Years Old
+👩🏽‍💻 27 Years Old
 
 🎓 Software Engineering Student
 

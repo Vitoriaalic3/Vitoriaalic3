@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-👩🏽‍💻 27 Years Old
+👩🏽‍💻 28 Years Old
 
 🎓 Software Engineering Student
 
 📈 Studying Data Engineering and Data Science 
 
-- Available in Portuguese and English (Soon in German)
+:loudspeaker: Available in Portuguese and English (Soon in German)
 
 
 <br>

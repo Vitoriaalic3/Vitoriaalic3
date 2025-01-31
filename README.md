@@ -22,6 +22,8 @@
 
 📈 Studying Data Engineering and Data Science 
 
+- Available in Portuguese and English (Soon in German)
+
 
 <br>
 

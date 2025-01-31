@@ -71,8 +71,8 @@
  
   <a href = "mailto:vitoriaalic3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF9001?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitoria-alice-dos-santos-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9001?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://open.spotify.com/user/ts3fm74t9nrr6cj77zxpi1b0o?si=5cf89a480184405c&nd=1"><img src="https://img.shields.io/badge/Spotify-FF9001?&style=for-the-badge&logo=spotify&logoColor=white"> </a>
-<a href="https://letterboxd.com/vitoriaalice/"><img src="https://img.shields.io/badge/-Letterboxd-FF9001?style=for-the-badge&logo=letterboxd&logoColor=white"/>  </a> 
+ <a href="https://open.spotify.com/user/ts3fm74t9nrr6cj77zxpi1b0o?si=5cf89a480184405c&nd=1"><img src="https://img.shields.io/badge/Spotify-FF9001?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://letterboxd.com/vitoriaalice/"><img src="https://img.shields.io/badge/-Letterboxd-FF9001?style=for-the-badge&logo=letterboxd&logoColor=white"/></a> 
 
 
 

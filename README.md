@@ -20,7 +20,6 @@
 
 🎓 Software Engineering Student
 
-📈 Studying Data Engineering and Data Science 
 
 :loudspeaker: Available in Portuguese and English (Soon in German)
 

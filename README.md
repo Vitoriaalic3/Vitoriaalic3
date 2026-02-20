@@ -86,7 +86,7 @@
 
 <br>
 
-
+<div align = "center">
 <img src="https://media1.giphy.com/media/Ai5SLIOTjQG0doYaJD/giphy.gif?cid=ecf05e47twbxvq4qbsafhdh1hibtlzb5vcz4dsrtk4xgi9qc&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 </div>

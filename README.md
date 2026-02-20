@@ -81,11 +81,6 @@
 <br> 
 
 
-## 🔥 GitHub Stats
-
-<div align=center>
-
-<img width=415 hight=195px src="https://github-readme-stats.vercel.app/api?username=VITORIAALIC3&layout=compact&bg_color=0D1117&border_color=FF9001&title_color=EEAD2D&text_color=FFE390&hide_title=true&hide=stars&">  
 
 
 
